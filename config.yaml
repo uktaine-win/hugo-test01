@@ -1,7 +1,7 @@
 baseurl: https://lmm.pages.dev
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: Example Site
 
 # Change it to your Disqus shortname before using
