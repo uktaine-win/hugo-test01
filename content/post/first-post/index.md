@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Markdown Syntax Guide Practice"
-date = "2023-04-19"
+date = "2020-04-19"
 description = "Learn Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
@@ -17,7 +17,6 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
 First article:learn use Markdown syntax create new page!
